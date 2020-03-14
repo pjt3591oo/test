@@ -1,0 +1,6 @@
+1byte
+한글, 한자 2byte
+1024byte 1KB
+1024KB 1Mb
+
+1000000: 1Mb
